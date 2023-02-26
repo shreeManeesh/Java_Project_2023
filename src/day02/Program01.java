@@ -2,9 +2,6 @@ package day02;
 
 public class Program01 {
 
-	public static void main(String[] args)  {
-	
-	   
 	    public static void fun()
 	{
 		int x=101234567;
